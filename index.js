@@ -25,9 +25,7 @@ var questionsArr = [
     {
       question: 'Jake has seven concussions. \n(Click "OK" for yes and "Cancel" for no)',
       answer: true
-    }
-    /** 
-    ,
+    },
     {
       question: 'Jake has played basketball in the Netherlands \n(Click "OK" for yes and "Cancel" for no)',
       answer: true
@@ -44,8 +42,6 @@ var questionsArr = [
       question: 'Jake is a morning person. \n(Click "OK" for yes and "Cancel" for no)',
       answer: false
     }
-      **/
-
 ]  
 
 
